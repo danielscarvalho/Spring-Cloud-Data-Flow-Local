@@ -9,8 +9,7 @@ Setup and run Spring Cloud Data Flow Server 2.8.1 local
 
 wget https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-dataflow-server/2.8.1/spring-cloud-dataflow-server-2.8.1.jar<br>
 wget https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-dataflow-shell/2.8.1/spring-cloud-dataflow-shell-2.8.1.jar<br>
-wget https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-skipper-server/2.7.1/spring-c
-loud-skipper-server-2.7.1.jar<br>
+wget https://repo1.maven.org/maven2/org/springframework/cloud/spring-cloud-skipper-server/2.7.1/spring-cloud-skipper-server-2.7.1.jar<br>
 
 Install Messaging Middleware RabbitMQ:
 
