@@ -1,5 +1,5 @@
 # Spring-Cloud-Data-Flow-Local
-Setup and run Spring Cloud Data Flow Server 2.8.1 local
+Setup and run Spring Cloud Data Flow Server 2.8.1 in a local machine
 
 # Download and install JARs
 
